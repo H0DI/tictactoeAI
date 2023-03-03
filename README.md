@@ -4,7 +4,9 @@
 
 tic tac toe game in assci art implamenting a minimax algorithem in java.
 
-For Alon
+For Alon Chaimovitz
+
+**file can be found in src folder**
 
 ## Authors
 
